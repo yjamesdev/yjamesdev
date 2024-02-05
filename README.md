@@ -6,7 +6,7 @@
 <h3>About Me</h3>
 <p>
   Programmer backend for node js, python and php
-  I work in database SQL Y No SQL
+  I work in database SQL and No SQL
 </p>
 
 
